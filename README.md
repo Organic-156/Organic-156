@@ -24,7 +24,7 @@
 🔹 **Game Development & AI** (*Tetris (PyGame), Snake (PyGame), DeadNet (2800), 20Questions (3800)*)  
 🔹 **Restful APIs** *Elixir and Phoenix Framework*  
 🔹 **Networking & Security Concepts**  *TCP/IP UDP Protocols*
-🔹 **Codebase Testing**  *Python Unit Testing, Junit Testing *
+🔹 **Codebase Testing**  *Python Unit Testing, Junit Testing*
 
 ---
 
