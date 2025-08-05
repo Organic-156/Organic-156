@@ -8,7 +8,7 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 **Currently Learning:** *Computer Systems Technology Diploma @ BCIT*
+- 🎓 **Alumni:** *Computer Systems Technology Diploma @ BCIT*
 - 💡 **Interests:** ♟️ Chess | 🏸 Badminton | 📖 Novels | 🥞 Pancakes | ⌨️Keyboard Modding
 - 🛠️ **Tech Stack:** `Elixir`, `Python`, `Rust`,`Kotlin`, `Rust`, `OCaml`, `C`, `JavaScript`, `R`, `SQL`, `Node`, `MongoDB`, `Express`, `Java`, `Postgres`, `MariaDB`, `Google Firebase`, `Phoenix Framework`
 - 🏆 **Looking to Collaborate On:**
